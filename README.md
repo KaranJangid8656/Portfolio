@@ -15,7 +15,7 @@ Hi, I'm Karan! I'm a second-year Data Science student with a passion for coding 
 
 ## Skills
 
-- **Languages**: TypeScript, JavaScript
+- **Languages**: TypeScript
 - **Tools**: Git, GitHub, VS Code
 - **Frameworks**: React (for the front-end of my portfolio)
 
